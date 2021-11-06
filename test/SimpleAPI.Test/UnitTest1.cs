@@ -9,13 +9,13 @@ namespace SimpleAPI.Test
 
     public class UnitTest1
     {
-        WeatherForecastController controller = new WeatherForecastController();
+        /*WeatherForecastController controller = new WeatherForecastController();
         [Fact]
         public void GetReturnsMyname()
         {
             var returnValue = controller.Get();
             Assert.NotEqual("KTP", returnValue.ToString());
-        }
+        }*/
 
         [Fact]
         public void Test1()
